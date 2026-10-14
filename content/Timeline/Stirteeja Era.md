@@ -17,7 +17,7 @@ The era is named after the [[Stirteeja Regime]], the military-led government tha
 ### [[Stirteeja Regime]]
 A stratocratic government in which military service and leadership formed the basis of political authority.
 
-Led by [[Founder of Verdant]], the regime believed that lasting peace could only be achieved through military strength, discipline, and centralized authority. The Stirteeja leadership envisioned a future far beyond Viridion, despite lacking the technology to safely travel beyond their own world.
+Led by [[Ruux Kennedi]], the regime believed that lasting peace could only be achieved through military strength, discipline, and centralized authority. The Stirteeja leadership envisioned a future far beyond Viridion, despite lacking the technology to safely travel beyond their own world.
 
 Following victory in the civil war, the regime restructured itself into what would become the [[Verdant Republic]].
 
@@ -64,7 +64,7 @@ Many of the early designs that would later influence Verdant warships and milita
 
 ## Founding of the Republic
 
-Following victory, [[Founder of Verdant]] dissolved the Stirteeja Regime and established the [[Verdant Republic]].
+Following victory, [[Ruux Kennedi]] dissolved the Stirteeja Regime and established the [[Verdant Republic]].
 
 Officially, this transition marked the beginning of a new era of unity and reconstruction.
 
@@ -74,11 +74,11 @@ However, many events of the transition remained hidden from the public for gener
 
 ## The Purges
 
-In the aftermath of the war, large numbers of loyalists associated with the defeated Totalitarian Military Regime were secretly executed under orders from [[Founder of Verdant]].
+In the aftermath of the war, large numbers of loyalists associated with the defeated Totalitarian Military Regime were secretly executed under orders from [[Ruux Kennedi]].
 
 These actions were concealed from the public and omitted from official historical records.
 
-According to later accounts, the Founder believed that allowing the defeated ideology to survive would eventually lead to another civil war. His decisions were motivated by a desire to secure a safer future for both the Republic and his son, who would one day become [[General Sean Kennedy]].
+According to later accounts, the Founder believed that allowing the defeated ideology to survive would eventually lead to another civil war. His decisions were motivated by a desire to secure a safer future for both the Republic and his son, who would one day become General of the Republic.
 
 The morality of these actions remains one of the most controversial subjects in modern Verdant historical scholarship.
 
@@ -92,7 +92,7 @@ The Stirteeja Era established many of the foundations of modern Verdant society:
 - The rise of the Verdant military tradition
 - The first known contact with off-world civilizations
 - The beginning of Verdant spaceflight development
-- The political legacy of [[Founder of Verdant]]
+- The political legacy of [[Ruux Kennedi]]
 - The origins of the Kennedy family dynasty
 
 The era officially ended with the founding of the [[Verdant Republic]], though its influence continues to shape Verdant politics and military doctrine centuries later.

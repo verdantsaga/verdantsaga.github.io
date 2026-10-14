@@ -31,7 +31,7 @@ See: [[Stirteeja Era]]
 The age in which the modern Republic was established.
 
 Major developments:
-- Rise of the [[Founder of Verdant]]
+- Rise of the [[Ruux Kennedi]]
 - Formation of the [[Verdant Republic]]
 - Creation of the Senate
 - Military reforms
@@ -91,8 +91,8 @@ See: [[Imperial War Era]]
 The primary setting of the Verdant Saga.
 
 Major developments:
-- Leadership of [[General Sean Kennedy]]
-- Actions of [[Marcus Shepherd]]
+- Leadership of [[Sian Kennedi]]
+- Actions of [[Mar'cus Shepherd]]
 - Growth of the Republic
 - Major political developments
 - Campaigns against Imperial forces

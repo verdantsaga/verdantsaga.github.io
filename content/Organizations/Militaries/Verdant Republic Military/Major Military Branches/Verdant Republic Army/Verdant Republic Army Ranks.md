@@ -1,0 +1,2 @@
+![[vr-army-ranks.png]]
+
