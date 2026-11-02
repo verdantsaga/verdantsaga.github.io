@@ -15,7 +15,7 @@
 **LENGTH:** 31.4 meters
 **WIDTH:**
 - 28.6 meters (flight configuration)
-- 18.1 meters (storage configuration)
+- 18.1 meters (storage configuration) 
 **HEIGHT:** 7.9 meters
 **MEGALIGHT PER HOUR:** 75 MGLT
 **MAXIMUM ATMOSPHERIC SPEED:** 820 km/h
@@ -68,7 +68,7 @@
 
 **Usage**
 
-**Role(s):**
+**ROLE(s):**
 - Strategic bombardment
 - Anti-capital ship operations
 - Orbital assault support

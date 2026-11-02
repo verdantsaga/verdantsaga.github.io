@@ -72,7 +72,7 @@
 **AFFILIATION:**
 - [[Verdant Republic Military]]
   ◦ [[Verdant Republic Navy]]
-NICKNAMES:
+**NICKNAMES:**
 - “Warden”
 - “Triplewing” (informal)
 ****
