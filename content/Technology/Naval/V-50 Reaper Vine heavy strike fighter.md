@@ -16,6 +16,7 @@
 **WIDTH:**
 - 24.5 meters (combat configuration)
 - 13.2 meters (cruise configuration)
+
 **HEIGHT:** 5.8 meters
 **MEGALIGHT PER HOUR:** 95 MGLT
 **MAXIMUM ATMOSPHERIC SPEED:** 950 km/h
@@ -31,12 +32,14 @@
 - Pilot (1)
 - Weapons Systems Officer (1)
 - Defense Operator / Tail Gunner (1)
+
 **CONSUMABLES:** 14 days
 **LIFE SUPPORT:**
 - Full atmospheric recycling system
 - Triple-redundant environmental controls
 - Pressurized crew compartments
 - Extended-duration survival equipment
+
 **OTHER SYSTEMS:**
 - Electronic warfare package
 - Fleet combat data-link network
@@ -44,13 +47,14 @@
 - Threat warning receiver
 - Chaff and decoy dispenser system
 - Emergency locator beacon
+
 **ARMAMENT:**
 **Fixed weapons:**
 - Heavy laser cannons (8)
 - Four mounted on each wing assembly
 - Heavy ion cannons (2)
 - Mounted beneath the forward fuselage
-Missile weapons:
+**Missile weapons:**
 - Missile launchers (8)
 - Four mounted beneath each wing
 - Proton torpedo launchers (8)
@@ -60,18 +64,17 @@ Missile weapons:
 **Defensive armament:**
 - Rear defense turret (1)
 - Twin laser cannons operated by defense operator
+
 **SPECIAL PAYLOADS:**
 - Siege-buster bunker penetrators
 - Capital ship proton torpedoes
 - Planetary assault bombs
 - Electronic warfare disruption pods
 - Orbital strike guidance packages
-**WING CONFIGURATION:**
-- Variable assault-wing configuration
-**COMBAT MODE:**
-- Wings deploy outward to maximize weapons separation and maneuverability
-**CRUISE MODE:**
-- Wings fold inward to reduce profile and increase hyperspace efficiency
+
+**WING CONFIGURATION:** Variable assault-wing configuration
+**COMBAT MODE:** Wings deploy outward to maximize weapons separation and maneuverability
+**CRUISE MODE:** Wings fold inward to reduce profile and increase hyperspace efficiency
 
 **USAGE**
 
@@ -84,14 +87,17 @@ Missile weapons:
 - Suppression of enemy defenses
 - Deep strike operations
 - Escort for bomber formations
-**YEAR INTRODUCED:**
+
+**YEAR INTRODUCED:** N/A
 **AFFILIATION:**
 - [[Verdant Republic Military]]
   ◦ [[Verdant Republic Navy]]
+
 **NICKNAMES:**
 - “Reaper”
 - “Vine”
 - “Hammer of Verdant”
+
 ****
 
 The V-50 Reaper Vine heavy strike fighter was developed as the [[Verdant Republic]]’s premier deep-strike and anti-ship aerospace platform. Combining exceptional payload capacity, heavy shielding, and substantial armor protection, the Reaper Vine was capable of engaging targets ranging from armored ground formations to capital ships.

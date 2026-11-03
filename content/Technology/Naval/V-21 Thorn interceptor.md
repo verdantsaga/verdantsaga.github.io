@@ -16,6 +16,7 @@
 **WIDTH:**
 - 11.8 meters (wings deployed)
 - 6.2 meters (wings retracted)
+
 **HEIGHT:** 3.6 meters
 **MEGALIGHT PER HOUR:** 145 MGLT
 **MAXIMUM ATMOSPHERIC SPEED:** 1,450 km/h
@@ -29,17 +30,20 @@
 **NAVIGATION SYSTEM:** Military-grade stellar navigation computer
 **CREW:**
 - Pilot (1)
+
 **CONSUMABLES:** 5 days
 **LIFE SUPPORT:**
 - Full atmospheric recycling system
 - Pressurized cockpit compartment
 - Emergency survival package
+
 **OTHER SYSTEMS:**
 - Ejector seat
 - Secure military communications package
 - Electronic countermeasure suite
 - Combat data-link network
 - Threat warning receiver
+
 **ARMAMENT:**
 **Laser cannons:**
 - Heavy laser cannons (6)
@@ -64,14 +68,17 @@
 - Bomber interception
 - Rapid response starfighter
 - Reconnaissance patrol fighter
+
 **YEAR INTRODUCED:** 
 **AFFILIATION:**
 - [[Verdant Republic Military]]
   ◦ [[Verdant Republic Navy]]
+
 **NICKNAMES:**
 - “Thorn”
 - “Fleet Knife”
 - “Spearhead”
+
 ****
 
 The V-21 Thorn interceptor was developed to establish and maintain aerospace superiority for the [[Verdant Republic]]. Designed around speed, acceleration, and combat agility, the Thorn sacrifices some payload capacity in favor of exceptional interceptor performance. Its distinctive variable-geometry wing system allows the fighter to transition between a compact cruise configuration and an expanded combat configuration optimized for maneuverability and weapons employment.

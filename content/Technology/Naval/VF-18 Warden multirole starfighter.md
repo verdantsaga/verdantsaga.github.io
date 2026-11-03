@@ -16,6 +16,7 @@
 **CREW:**
 - Pilot (1)
 - Defense operator/gunner (1)
+
 **MAXIMUM ATMOSPHERIC SPEED:** 1,150 km/h
 **MEGALIGHT PER HOUR:** 120 MGLT
 **ENGINE UNIT(s):** Twin NovalDrive J-77 fusion-ion engines
@@ -26,21 +27,23 @@
 **TARGETING SYSTEMS:** Integrated multirole targeting computer
 **NAVIGATION SYSTEM:** Long-range stellar navigation computer
 **CREW SYSTEMS:**
-**Pilot station:**
-- Independent forward cockpit
+**Pilot station:** Independent forward cockpit
 **Defense operator station:**
 - Independent rear cockpit
 - Controls sensors, communications, electronic warfare systems, and rear defense turret
+
 **CONSUMABLES:** 7 days standard operational endurance
 **LIFE SUPPORT:**
 - Full atmospheric recycling system
 - Pressurized cockpit compartments
 - Emergency survival package
+
 **OTHER SYSTEMS:**
 - Astromech-compatible interface
 - Secure military communications suite
 - Electronic countermeasure package
 - Combat data-link network
+
 **ARMAMENT:**
 - Heavy laser cannons (6)
 - Three mounted along each primary wing assembly
@@ -53,6 +56,7 @@
 **Defensive armament:**
 - Rear defense turret (1)
 - Operated by defense operator
+
 **WING CONFIGURATION:**
 - Triple-split variable geometry S-foils
 - Main wing separates into three combat surfaces per side when deployed
@@ -68,11 +72,14 @@
 - Close air support platform
 - Reconnaissance starfighter
 - Anti-ship strike fighter
+
 **YEAR INTRODUCED:** 
 **AFFILIATION:**
 - [[Verdant Republic Military]]
   ◦ [[Verdant Republic Navy]]
+
 **NICKNAMES:**
 - “Warden”
 - “Triplewing” (informal)
+
 ****
