@@ -1,4 +1,4 @@
-# Verdant Republic Armed Forces
+# Verdant Republic Military
 
 #military #organization #canon
 

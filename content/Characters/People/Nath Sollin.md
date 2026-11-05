@@ -1,3 +1,4 @@
+#canon #character 
 **Name**
 **BIOGRAPHICAL INFORMATION**
 **Homeworld:** 

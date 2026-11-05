@@ -1,3 +1,4 @@
+#canon #starship 
 **Verdant-class Star Destroyer II**
 **PRODUCTION INFORMATION**
 **MANUFACTURER:** Verdant Republic Naval Shipyards

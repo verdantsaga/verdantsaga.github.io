@@ -1,3 +1,4 @@
+#canon #starship 
 **Verdant-class Super Star Destroyer**
 **PRODUCTION INFORMATION**
 

@@ -1,3 +1,4 @@
+#canon #starship 
 **Sentinel-class Battlecruiser**
 **PRODUCTION INFORMATION**
 

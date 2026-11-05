@@ -1,3 +1,4 @@
+#canon #starship 
 **Ranger-class Corvette**
 **PRODUCTION INFORMATION**
 
